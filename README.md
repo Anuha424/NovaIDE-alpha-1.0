@@ -65,18 +65,18 @@ My first IDE
 
 ---
 
-## 📸 Screenshots
+## 📸 Available themes 
 
 <div align="center">
 
 ### 🌙 Nova Dark Theme
-![Nova Dark](https://via.placeholder.com/800x500/1E1E2E/CDD6F4?text=Nova+Dark+Theme+Screenshot)
+
 
 ### ☀️ Nova Light Theme
-![Nova Light](https://via.placeholder.com/800x500/FBFBFF/1E1E30?text=Nova+Light+Theme+Screenshot)
+
 
 ### 🌑 Nova Midnight Theme (OLED)
-![Nova Midnight](https://via.placeholder.com/800x500/0D0D14/CDD6F4?text=Nova+Midnight+Theme+Screenshot)
+
 
 </div>
 
